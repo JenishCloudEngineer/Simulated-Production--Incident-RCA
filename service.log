@@ -1,0 +1,44 @@
+2025-12-02T12:33:38.627Z jenish-payment-service running on port 3000
+2025-12-02T12:35:29.033Z jenish-payment-service running on port 8080
+2025-12-02T12:38:58.226Z jenish-payment-service running on port 8080
+2025-12-02T12:39:01.767Z INFO: Processed payment ID 9999 (actual: 103)
+2025-12-02T12:39:19.821Z INFO: Processed payment ID 9999 (actual: 102)
+2025-12-02T12:39:20.401Z INFO: Processed payment ID 9999 (actual: 103)
+2025-12-02T12:39:20.958Z INFO: Processed payment ID 9999 (actual: 103)
+2025-12-02T12:39:21.537Z INFO: Processed payment ID 9999 (actual: 102)
+2025-12-02T12:39:21.909Z ERROR: Payment 101 failed randomly
+2025-12-02T12:39:22.105Z INFO: Processed payment ID 9999 (actual: 102)
+2025-12-02T12:39:22.289Z INFO: Processed payment ID 9999 (actual: 102)
+2025-12-02T12:39:22.969Z INFO: Processed payment ID 9999 (actual: 103)
+2025-12-02T12:39:23.357Z ERROR: Payment 102 failed randomly
+2025-12-02T12:39:26.095Z INFO: Processed payment ID 9999 (actual: 103)
+2025-12-02T12:39:27.126Z INFO: Processed payment ID 9999 (actual: 102)
+2025-12-02T12:39:27.910Z INFO: Processed payment ID 9999 (actual: 103)
+2025-12-02T12:39:28.521Z INFO: Processed payment ID 9999 (actual: 101)
+2025-12-02T12:39:29.077Z INFO: Processed payment ID 9999 (actual: 101)
+2025-12-02T12:39:29.754Z INFO: Processed payment ID 9999 (actual: 102)
+2025-12-02T12:39:30.014Z INFO: Processed payment ID 9999 (actual: 102)
+2025-12-02T12:39:30.230Z INFO: Processed payment ID 9999 (actual: 102)
+2025-12-02T12:39:30.373Z ERROR: Payment 103 failed randomly
+2025-12-02T12:39:30.557Z INFO: Processed payment ID 9999 (actual: 101)
+2025-12-02T12:39:31.255Z ERROR: Payment 102 failed randomly
+2025-12-02T12:40:07.205Z INFO: Processed payment ID 9999 (actual: 102)
+2025-12-02T12:40:07.383Z WARN: Slow processing for payment 103
+2025-12-02T12:40:09.386Z INFO: Processed payment ID 9999 (actual: 103)
+2025-12-02T12:40:15.131Z ERROR: Payment 102 failed randomly
+2025-12-02T12:45:33.984Z jenish-payment-service (FIXED) running on port 8080
+2025-12-02T12:46:16.801Z INFO: Successfully processed payment ID 102
+2025-12-02T12:46:16.977Z INFO: Successfully processed payment ID 103
+2025-12-02T12:46:17.160Z INFO: Successfully processed payment ID 102
+2025-12-02T12:46:17.345Z INFO: Successfully processed payment ID 101
+2025-12-02T12:46:17.522Z INFO: Successfully processed payment ID 101
+2025-12-02T12:46:17.680Z INFO: Successfully processed payment ID 103
+2025-12-02T12:46:17.860Z INFO: Successfully processed payment ID 103
+2025-12-02T12:46:18.041Z INFO: Successfully processed payment ID 102
+2025-12-02T12:46:18.393Z INFO: Successfully processed payment ID 103
+2025-12-02T12:46:18.577Z INFO: Successfully processed payment ID 103
+2025-12-02T12:46:18.769Z INFO: Successfully processed payment ID 101
+2025-12-02T12:46:18.942Z INFO: Successfully processed payment ID 101
+2025-12-02T12:46:19.124Z INFO: Successfully processed payment ID 101
+2025-12-02T12:46:19.280Z INFO: Successfully processed payment ID 102
+2025-12-02T12:46:19.457Z INFO: Successfully processed payment ID 102
