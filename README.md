@@ -34,4 +34,4 @@ now check the terminal where you started the app.
 
  Here it shows the logs for the app 
 
- From this logs analyze the cause of error and create the report and a propse. 
+ From this logs analyze the cause of error and create the report and a propose. 
